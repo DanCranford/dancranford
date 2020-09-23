@@ -1,4 +1,10 @@
-### Hi there 👋
+Former archaeologist, currently a geospatial data nerd.  
+
+Lately I'm into:
+- All things geospatial
+- writing better Python code
+- serverless GIS
+- making friends with strange animals
 
 <!--
 **DanCranford/dancranford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
